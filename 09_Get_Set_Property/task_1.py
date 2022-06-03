@@ -1,1 +1,1 @@
-print("change world")
+print("change all world")
